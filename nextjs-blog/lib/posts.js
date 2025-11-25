@@ -6,7 +6,6 @@ import html from 'remark-html';
 import got from 'got'; // Install with: npm install got@9.6.0
 
 
-
 // WordPress REST API endpoint
 const dataURL = "https://dev-srjc-fall-2025-cs55-13.pantheonsite.io/wp-json/wp/v2/car";
 
